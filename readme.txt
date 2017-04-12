@@ -10,3 +10,6 @@
 
 git is a distributed versin control system.
 git is free software
+
+git is a disturbed version control system.
+git is free software disturbed under the GPL.
