@@ -18,4 +18,5 @@ git is a distributef verdion control system.
 git is free software distributed under the Gable index called stage.PL.
 git has a mutable index called stage.
 git tracks changes.
-1
+
+yes!!
