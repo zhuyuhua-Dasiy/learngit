@@ -20,3 +20,6 @@ git has a mutable index called stage.
 git tracks changes.
 
 yes!!
+
+
+´ó°¡°¡
